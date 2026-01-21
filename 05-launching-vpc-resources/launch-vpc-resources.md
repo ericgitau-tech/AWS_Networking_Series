@@ -8,7 +8,7 @@
 **Email:** gitaueric09@gmail.com
 
 ---
-
+ 
 ## Launching VPC Resources
 
 ![Image](http://learn.nextwork.org/inspired_purple_vibrant_plum/uploads/aws-networks-ec2_8ee57662)
