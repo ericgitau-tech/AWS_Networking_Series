@@ -15,7 +15,7 @@
 
 ---
 
-## Introducing Today's Project!
+## Introducing Today's Project! 
 
 ### What is Amazon VPC?
 
