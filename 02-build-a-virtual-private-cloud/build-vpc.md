@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
 
 **Author:** Eric Gitau  
-**Email:** gitaueric09@gmail.com
+**Email:** gitaueric09@gmail.com 
 
 ---
 
