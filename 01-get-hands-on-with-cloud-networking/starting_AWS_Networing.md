@@ -10,7 +10,7 @@
 ---
 
 ## I'm starting the AWS Networking Series!
-
+ 
 ![Image](http://learn.nextwork.org/inspired_purple_vibrant_plum/uploads/aws-networks-intro_ba6d42ae)
 
 ---
