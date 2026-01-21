@@ -9,7 +9,7 @@
 
 ---
 
-## VPC Traffic Flow and Security
+## VPC Traffic Flow and Security 
 
 ![Image](http://learn.nextwork.org/inspired_purple_vibrant_plum/uploads/aws-networks-security_92b0b0b4)
 
